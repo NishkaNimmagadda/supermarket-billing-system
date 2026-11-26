@@ -1,0 +1,5 @@
+Product Entry Details
+Product ID: 101
+Product Name: Milk
+Price: 50
+Quantity: 10
