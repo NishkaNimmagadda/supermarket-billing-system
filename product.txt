@@ -3,3 +3,10 @@ Product ID: 101
 Product Name: Milk
 Price: 50
 Quantity: 10
+
+Bill Generation Details
+Product ID: 101
+Product Name: Milk
+Price: 60
+Quantity: 5
+Total: 300
